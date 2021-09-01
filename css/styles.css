@@ -37,3 +37,19 @@ h1 {
 .grid_row {
 	border: 1px solid rgba(0, 0, 0, 0.8);
 }
+
+.blue {
+	color: blue;
+}
+.italic {
+	font-style: italic;
+}
+.font_size {
+	font-size: 10px;
+}
+.back {
+	background: green;
+}
+.border {
+	border-radius: 30px;
+}
